@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;JpaTest&apos;&#x0D;&#x0A;- Original project: &apos;JpaTest&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.example.JpaTest.EmployeeDetails.java&#x0D;&#x0A;     com.example.JpaTest.Nice.java&#x0D;&#x0A;     com.example.JpaTest.Person.java&#x0D;&#x0A;     com.example1.JpaTest.JpaTestApplicationTests.java" description="Delete elements" element1="/src\/main\/java&lt;com.example.JpaTest{EmployeeDetails.java" element2="/src\/test\/java&lt;com.example1.JpaTest{JpaTestApplicationTests.java" element3="/src\/main\/java&lt;com.example.JpaTest{Person.java" element4="/src\/main\/java&lt;com.example.JpaTest{Nice.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1544186005174" subPackages="false" version="1.0"/>
+</session>
